@@ -1,5 +1,3 @@
-# College-Finder
-
 # 🎓 College Finder Application
 
 The **College Finder** is a full-stack web application that helps students explore and compare colleges based on various criteria like location, courses offered, placements, and more. Built using **React.js**, **Python**, and **SQL**, it provides an intuitive interface and powerful filtering options to assist students in making informed decisions.
